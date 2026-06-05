@@ -18,7 +18,7 @@ A custom node that displays equirectangular (360°) panoramic images as an inter
 1. Clone or download this repo into your `ComfyUI/custom_nodes/` folder:
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/YOUR_USERNAME/comfyui-360-viewer
+   git clone https://github.com/pavel-zinchenko/comfyui-360-viewer
    ```
 2. Restart ComfyUI
 
