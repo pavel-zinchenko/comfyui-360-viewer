@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-360-viewer"
+version = "1.0.0"
+description = "360° equirectangular image viewer node for ComfyUI"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/pavel-zinchenko/comfyui-360-viewer"
+
+[tool.comfy]
+PublisherId = "pavel-zinchenko"
+DisplayName = "ComfyUI 360° Viewer"
+Icon = ""
